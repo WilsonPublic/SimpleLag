@@ -1,3 +1,9 @@
+/*
+
+	SimpleLag, by Wilson
+
+*/
+
 #include <windows.h> 
 #include <string>
 #include <thread>
